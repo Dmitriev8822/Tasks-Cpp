@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1722592241 source:d:\design\c++projects\r10_z6\main.cpp
+	<iostream>
+	<array>
+	<algorithm>
+	<random>
+	<ctime>
+

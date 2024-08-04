@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1722502685 source:d:\design\c++projects\10.11_z2\main.cpp
+	<iostream>
+	<iterator>
+

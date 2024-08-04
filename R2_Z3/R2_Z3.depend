@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1722774584 source:d:\design\c++projects\r2_z3\main.cpp
+	<iostream>
+	"io.h"
+
+1722774570 d:\design\c++projects\r2_z3\io.h
+

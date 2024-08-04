@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1722598722 source:d:\design\c++projects\2.7_z1\main.cpp
+	<iostream>
+	"input.cpp"
+
+1722598700 d:\design\c++projects\2.7_z1\input.cpp
+	<iostream>
+
